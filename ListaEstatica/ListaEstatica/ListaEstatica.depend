@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1676419002 source:c:\users\usuario\downloads\listaestatica\main.cpp
+	<iostream>
+
+1676995601 source:c:\users\usuario\desktop\listaestatica\listaestatica\gatodomestico.cpp
+	"mamifero.cpp"
+
+1676955606 c:\users\usuario\desktop\listaestatica\listaestatica\mamifero.cpp
+	<iostream>
+	<string>
+
+1676955606 source:c:\users\usuario\desktop\listaestatica\listaestatica\mamifero.cpp
+	<iostream>
+	<string>
+
+1676997607 source:c:\users\usuario\desktop\listaestatica\listaestatica\main.cpp
+	"menu.cpp"
+
+1676995601 c:\users\usuario\desktop\listaestatica\listaestatica\gatodomestico.cpp
+	"mamifero.cpp"
+
+1676997607 source:c:\users\usuario\desktop\listaestatica\listaestatica\menu.cpp
+	"menu.hpp"
+
+1676997546 c:\users\usuario\desktop\listaestatica\listaestatica\menu.hpp
+	<string>
+	<iostream>
+	<windows.h>
+	"lista.cpp"
+
+1676997284 c:\users\usuario\desktop\listaestatica\listaestatica\main.cpp
+	<iostream>
+	"gatodomestico.cpp"
+
+1676997993 c:\users\usuario\desktop\listaestatica\listaestatica\lista.cpp
+	<iostream>
+	"gatodomestico.cpp"
+
+1676997804 source:c:\users\usuario\desktop\listaestatica\listaestatica\lista.cpp
+	<iostream>
+	"gatodomestico.cpp"
+
+1676997607 c:\users\usuario\desktop\listaestatica\listaestatica\menu.cpp
+	"menu.hpp"
+
+1677041902 source:c:\users\pc\desktop\listaestatica\listaestatica\gatodomestico.cpp
+	"mamifero.cpp"
+
+1676955608 c:\users\pc\desktop\listaestatica\listaestatica\mamifero.cpp
+	<iostream>
+	<string>
+
+1677040005 source:c:\users\pc\desktop\listaestatica\listaestatica\main.cpp
+	"menu.cpp"
+
+1677560139 c:\users\pc\desktop\listaestatica\listaestatica\menu.cpp
+	"lista.cpp"
+
+1677040467 c:\users\pc\desktop\listaestatica\listaestatica\menu.hpp
+	<string>
+	<iostream>
+	<windows.h>
+	"gatodomestico.cpp"
+
+1677044050 c:\users\pc\desktop\listaestatica\listaestatica\lista.cpp
+	"gatodomestico.cpp"
+
+1677041902 c:\users\pc\desktop\listaestatica\listaestatica\gatodomestico.cpp
+	"mamifero.cpp"
+
+1676955608 source:c:\users\pc\desktop\listaestatica\listaestatica\mamifero.cpp
+	<iostream>
+	<string>
+
+1677560139 source:c:\users\pc\desktop\listaestatica\listaestatica\menu.cpp
+	"lista.cpp"
+
+1677044050 source:c:\users\pc\desktop\listaestatica\listaestatica\lista.cpp
+	"gatodomestico.cpp"
+
+1677039731 c:\users\pc\desktop\listaestatica\listaestatica\lista.hpp
+
+1677039789 c:\users\pc\desktop\listaestatica\listaestatica\main.cpp
+	"menu.cpp"
+	<iostream>
+	"gatodomestico.cpp"
+
